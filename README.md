@@ -24,6 +24,7 @@ O projeto, aqui contido, visa atender as 3 questões de maneira isolada.
 # Funcionalidades:
 
 Questão 1:
+
 O código proposto para a questão necessita como parâmetro inicial a inserção de um  número inteiro qualquer para análise.
 A funcionalidade tem por objetivo atender a demanda:
 Exemplo digitado: 6
