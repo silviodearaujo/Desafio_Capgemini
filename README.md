@@ -28,12 +28,14 @@ O código proposto para a questão necessita como parâmetro inicial a inserçã
 A funcionalidade tem por objetivo atender a demanda:
 Exemplo digitado: 6
 
-“    *
+"
+     *
     **
    ***
   ****
  *****
-****** “
+****** 
+"
 
 Questão 2:
 
