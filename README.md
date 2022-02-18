@@ -29,7 +29,7 @@ O projeto, aqui contido, visa atender as 3 questões de maneira isolada.
 
 # Funcionalidades:
 
-###Questão 1:
+### Questão 1:
 
 O código proposto para a questão necessita como parâmetro inicial a inserção de um  número inteiro qualquer para análise.
 A funcionalidade tem por objetivo atender a demanda:
@@ -37,7 +37,7 @@ A funcionalidade tem por objetivo atender a demanda:
 Exemplo digitado: 6
 
 
-###Questão 2:
+### Questão 2:
 
 O código proposto para a questão necessita como parâmetro inicial a inserção de uma senha qualquer para análise.
 A funcionalidade tem por objetivo atender a demanda:
@@ -46,7 +46,7 @@ Exemplo digitado: Ya3
 
 “Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um tamanho mínimo de 6 caracteres.”
 
-###Questão 3:
+### Questão 3:
 
 O código proposto para a questão necessita como parâmetro inicial a inserção de uma palavra qualquer para análise.
 A funcionalidade tem por objetivo atender a demanda:
