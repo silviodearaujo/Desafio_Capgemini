@@ -4,8 +4,10 @@ Repositório contendo as 3 atividades solicitadas
 
 # Descrição:
 Como proposta do desafio Academia Capgemini2022  foram solicitados a resolução de 3 questões:
+
 1 – A elaboração de uma escada seguindo os padrões da questão.
                  “Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.”
+                 
 2 – Verificação para qualidade de senha para o usuário:
    “Débora se inscreveu em uma rede social para se manter em contato com seus amigos. A página de cadastro exigia o preenchimento dos campos de nome e senha, porém a senha precisa ser forte. O site considera uma senha forte quando ela satisfaz os seguintes critérios:
 •	Possui no mínimo 6 caracteres.
@@ -26,14 +28,12 @@ O código proposto para a questão necessita como parâmetro inicial a inserçã
 A funcionalidade tem por objetivo atender a demanda:
 Exemplo digitado: 6
 
-“
-     *
+“    *
     **
    ***
   ****
  *****
-******
-“
+****** “
 
 Questão 2:
 
